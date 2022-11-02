@@ -9,7 +9,7 @@
 7. Vinsensius Ferdinando - 2106751221
 
 ## Tautan Aplikasi Heroku
-[🛍 App Page Medsos UMKM - A10](https://medsos-umkm.herokuapp.com/)
+[🛍 App Page Medsos UMKM - A10](https://aplikasi-umkm.herokuapp.com/)
 
 ## Cerita Aplikasi
 Berangkat dari rencana pemerintah untuk membangkitkan ekonomi nasional pasca pandemi COVID-19. Kemudian, berkaitan juga dengan topik *Digitalisation and Innovation* pada G20 digital agenda yang bertujuan untuk membantu suatu negara memanfaatkan transformasi digital. Pemanfaatan transformasi digital tersebut yaitu sebagai media penciptaan lapangan kerja dan keberlangsungan bisnis. Aplikasi yang kelompok kami rencanakan adalah suatu aplikasi yang mempertemukan para pelaku usaha mikro kecil dan menengah (UMKM) dengan para pembeli. Harapannya aplikasi ini dapat membantu para pelaku UMKM untuk mengembangkan usahanya dengan menjangkau lebih banyak *customer*. Sebab jangkauan yang lebih luas kepada para calon *customer* akan membantu para pelaku UMKM untuk bisa meningkatkan pendapatan dan mengembangkan usahanya.
